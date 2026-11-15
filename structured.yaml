@@ -49,6 +49,10 @@ by_category:
         tags: [curl, json]
       ifconfig.es:
         tags: [curl, plain, newline, ipv6]
+      ip.me:
+        tags: [curl, plain, newline]
+      myip.wtf:
+        tags: [curl, plain, newline]
   - geo:
       api.ip2location.io:
         tags: [curl]
@@ -57,6 +61,10 @@ by_category:
       ifconfig.co:
         tags: [curl]
       ifconfig.es:
+        tags: [curl]
+      ipwho.is:
+        tags: [curl, json]
+      am.i.mullvad.net:
         tags: [curl]
   - sharing:
       ix.io:
