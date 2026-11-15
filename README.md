@@ -63,6 +63,8 @@ Structured data of the list (kept in sync) is in [structured.yaml](structured.ya
 * `curl ifconfig.es`
 * `curl ipaddress.sh`
 * `curl 2ip.ru`
+* `curl ip.me`
+* `curl myip.wtf/text`
 
 ### DNS
 
@@ -93,6 +95,8 @@ Structured data of the list (kept in sync) is in [structured.yaml](structured.ya
 * `curl ip-api.com` or `curl ip-api.com/8.8.8.8`
 * `curl ifconfig.co/country` or `curl ifconfig.co/city` or `curl ifconfig.co/country-iso` or `http ifconfig.co/json`
 * `curl ifconfig.es/geo` or `curl ifconfig.es/json` or `curl ifconfig.es/country` or `curl ifconfig.es/code` or `curl ifconfig.es/city` or `curl ifconfig.es/latitude` or `curl ifconfig.es/longitude`
+* `curl ipwho.is` or `curl ipwho.is/8.8.8.8`
+* `curl https://am.i.mullvad.net/json` or `curl https://am.i.mullvad.net/country` or `curl https://am.i.mullvad.net/city`
 
 ## Text Sharing
 
